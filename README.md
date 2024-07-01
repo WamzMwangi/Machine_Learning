@@ -1,4 +1,4 @@
-# Supervised Machine Learning
+# Machine Learning
 Welcome to my data science journey into all things machine learning. This is were I explore, iterate and play around with new concepts and models as part of my super intense data science bootcamp!
 
 ### What is included here...
